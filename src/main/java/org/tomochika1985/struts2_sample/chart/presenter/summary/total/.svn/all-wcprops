@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/31/trunk/struts2-sample/src/main/java/org/tomochika1985/struts2_sample/chart/presenter/summary/total
+END
+TotalQuentitiesPresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/31/trunk/struts2-sample/src/main/java/org/tomochika1985/struts2_sample/chart/presenter/summary/total/TotalQuentitiesPresenter.java
+END
+TimeChartTotalLinesLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/31/trunk/struts2-sample/src/main/java/org/tomochika1985/struts2_sample/chart/presenter/summary/total/TimeChartTotalLinesLocator.java
+END
+TimeChartTotalLinePresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/31/trunk/struts2-sample/src/main/java/org/tomochika1985/struts2_sample/chart/presenter/summary/total/TimeChartTotalLinePresenter.java
+END
